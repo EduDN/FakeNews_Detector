@@ -54,7 +54,7 @@ Siéntase libre de contribuir al repositorio mediante sugerencias, correcciones 
 
 ## Autores
 
-- [Eduardo Domínguez Navarrete]([https://github.com/username](https://github.com/EduDN)) - 
+- [EduDN](https://github.com/EduDN))  
 
 ## Licencia
 
