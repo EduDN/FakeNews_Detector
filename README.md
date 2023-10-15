@@ -1,6 +1,6 @@
 # FakeNews_Detector
 
-# Documentación del Repositorio "Cazadores de Fake News"
+# "Cazadores de Fake News"
 
 ## Descripción
 
